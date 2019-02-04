@@ -1,0 +1,9 @@
+node_modules
+config
+typings
+build
+.vscode
+.idea
+*.iml
+npm-debug.log
+package-lock.json
